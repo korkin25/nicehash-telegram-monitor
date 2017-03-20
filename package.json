@@ -1,0 +1,17 @@
+{
+  "name": "nicehash-telegram",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node ./src/main"
+  },
+  "dependencies": {
+    "body-parser": "~1.16.0",
+    "express": "~4.14.1",
+    "method-override": "^2.3.7",
+    "moment": "^2.17.1",
+    "node-json-db": "^0.7.3",
+    "node-telegram-bot-api": "^0.27.0",
+    "request": "^2.81.0"
+  }
+}

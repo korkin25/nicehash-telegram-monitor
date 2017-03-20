@@ -1,0 +1,9 @@
+{
+    "server": {
+        "host": "localhost",
+        "port": 8080
+    },
+    "interval": 45,
+    "name": "rig-01",
+    "bitcoin": "3Mdx7iQcAFTrrQSKghBRkZBEBCfMEjKeSE"
+}

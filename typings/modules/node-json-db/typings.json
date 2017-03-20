@@ -1,0 +1,8 @@
+{
+  "resolution": "main",
+  "tree": {
+    "src": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/5661e33ce14d477b7e49bfdbefffeca41ce3623a/node-json-db/index.d.ts",
+    "raw": "registry:dt/node-json-db#0.0.0+20161101131301",
+    "typings": "https://raw.githubusercontent.com/DefinitelyTyped/DefinitelyTyped/5661e33ce14d477b7e49bfdbefffeca41ce3623a/node-json-db/index.d.ts"
+  }
+}
